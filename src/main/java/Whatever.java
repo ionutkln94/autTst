@@ -1,6 +1,8 @@
+<<<<<<<<< Temporary merge branch 1
+public class Whatever {
+=========
 public class Whatever
 {
     String id = "1";
-    String id2 = "2";
-    String id3 = "2";
+>>>>>>>>> Temporary merge branch 2
 }
